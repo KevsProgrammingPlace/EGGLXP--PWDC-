@@ -1,0 +1,64 @@
+
+.kevo{
+    padding: 10px;
+    width: 200px;
+    height: 600x;
+    border: 5px solid  black;
+    margin: 5px;
+
+}
+
+.carrusel{
+    padding: 10px;
+    width: 320px;
+    height: 200px;
+    align-content: center;
+}
+
+
+.acerca-de{
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+.sub-titulo{
+    text-align: center;
+    color: rgb(0, 255, 13);
+    border-style: solid;
+    border-color: black;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+body{
+    background-color: rgb(184, 184, 184);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: green;
+}
+
+header nav ul{
+    display: flex;
+    gap: 1.5em;
+}
+
+ol,ul{
+    list-style: none;
+}
+
+header nav ul a{
+    text-decoration: none;
+    color: aliceblue;
+}

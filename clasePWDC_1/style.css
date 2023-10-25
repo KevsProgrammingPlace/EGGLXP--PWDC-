@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(201, 111, 243);
+}
+
+p{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    background-color: rgb(255, 0, 179);
+    color: white;
+}
+
+ol li{
+    background-color:darkmagenta;
+
+}
+
+ul li{
+    background-color: crimson;
+}
