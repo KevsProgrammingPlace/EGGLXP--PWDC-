@@ -1,0 +1,22 @@
+div{
+    background-color: aquamarine;
+    width: 20px;
+    height: 30px;
+    display: inline;
+}
+
+p{
+    background-color: blueviolet;
+    width: 60px;
+    height: 30px;
+    display: inline-block;
+}
+
+a{
+    background-color: tomato;
+    width: 30px;
+    height: 40px;
+    display: block;
+}
+
+ 
